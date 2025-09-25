@@ -13,7 +13,7 @@ public class DataDiri {
         usia = 50;
         tinggibadan = 15.3;
         beratbadan = 50;
-        jk = "p";
+        jk = 'p';
 
         System.out.println("nama:" + nama);
         System.out.println("alamat:" + alamat);
